@@ -1,0 +1,83 @@
+
+header {
+  background-color:white;
+  height: 35vh;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  -webkit-box-radius:20px;
+}
+
+p {
+  width: 950px;
+  margin: 10px  200px;
+  font-style:tahoma;
+  color:white;
+  font-size:20px;
+ /* background-image: url("ceglug1.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  
+  */
+}
+h3{
+    color:#ffff00;
+	font-weight:bold;
+	
+}
+img{
+	padding-right:70px;
+}
+body{
+	background-image:url("ceglugbg.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+footer{
+	background-color:white;
+	height:20vh;
+	background-size:cover;
+	background-position:center;
+	margin-top:100px;
+	 margin-bottom: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+
+	
+	
+}
